@@ -1,0 +1,15 @@
+div.MainDiv{
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  margin-left: 200px;
+  
+}
+div.SecondDiv{
+  margin-right: 100px;
+}
+div.row-layout{
+  display: flex;
+  flex-direction: row;
+
+}
